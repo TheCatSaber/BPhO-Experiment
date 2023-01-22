@@ -1,30 +1,30 @@
 ﻿Ball,Velocity / ms^-1,Impact crater diameter (edge of cocoa powder) / mm,Impact crater other way / mm,Presence of ejecta?,Level height / mm,Ejecta height / mm,Lowest height / mm
-Small yellow-red Glass,2.98,15,15,No,20,N/A,15
-Small metal,2.98,12,13,No,23,N/A,5
-Medium Metal,2.98,30,35,Yes,20,25,9
-Large Metal,3.02,27,30,A bit,38,40,13
-Small metal,3.02,15,15,Yes,23,24,14
-Large Blue Glass,3.04,22,23,No,25,N/A,19.5
-Medium Metal,3.02,15,16,No,16,N/A,10
-Large Blue Glass,3.08,21,21,No,26.5,N/A,22
-Large Blue Glass,3.10,21.5,22,No,27,N/A,20.5
-Small yellow-red Glass,3.11,15,16,No,40,N/A,31
-Large Blue Glass,3.08,22,24,No,24,N/A,19
-Large Metal,3.25,23,34,Rays of missing cocoa powder,35,N/A,15
-Small metal,3.48,12,13,No,37,N/A,29
-Large Blue Glass,4.30,25,25.5,Rays of missing cocoa powder,26.5,N/A,18
-Small metal,3.48,12,14,No,37,N/A,25
-Large Blue Glass,4.01,25,25,No,25,N/A,15.5
-Small metal,3.48,13,13,No,37,N/A,32
-Large Blue Glass,3.83,24.5,25,No,26.5,N/A,19
-Small yellow-red Glass,3.27,15,16,No,39,N/A,33
-Small yellow-red Glass,3.45,16,17,Rays of missing cocoa powder,37,N/A,30
-Small yellow-red Glass,4.03,15,17,Rays of missing cocoa powder,34,N/A,25
-Small metal,2.25,12,12,No,37,N/A,28
-Medium Metal,2.28,15,16,No,39,N/A,31
-Medium Metal,2.92,17,17,Rays of missing cocoa powder,38,N/A,28
-Medium Metal,3.59,17,18,Rays of missing cocoa powder,36,N/A,28
-Medium Metal,3.74,17,18,Rays of missing cocoa powder,35,N/A,19
-Large Metal,2.91,23,25,Yes,35,36,13
-Large Metal,2.59,23,23,No,39,N/A,26
-Large Metal,2.31,22,23,Rays of missing cocoa powder,34,N/A,15
+Small yellow-red Glass,2.98,15.0,15.0,No,20.0,N/A,15.0
+Small metal,2.98,12.0,13.0,No,23.0,N/A,5.0
+Medium Metal,2.98,30.0,35.0,Yes,20.0,25.0,9.0
+Large Metal,3.02,27.0,30.0,A bit,38.0,40.0,13.0
+Small metal,3.02,15.0,15.0,Yes,23.0,24.0,14.0
+Large Blue Glass,3.04,22.0,23.0,No,25.0,N/A,19.5
+Medium Metal,3.02,15.0,16.0,No,16.0,N/A,10.0
+Large Blue Glass,3.08,21.0,21.0,No,26.5,N/A,22.0
+Large Blue Glass,3.10,21.5,22.0,No,27.0,N/A,20.5
+Small yellow-red Glass,3.11,15.0,16.0,No,40.0,N/A,31.0
+Large Blue Glass,3.08,22.0,24.0,No,24.0,N/A,19.0
+Large Metal,3.25,23.0,34.0,Rays of missing cocoa powder,35.0,N/A,15.0
+Small metal,3.48,12.0,13.0,No,37.0,N/A,29.0
+Large Blue Glass,4.30,25.0,25.5,Rays of missing cocoa powder,26.5,N/A,18.0
+Small metal,3.48,12.0,14.0,No,37.0,N/A,25.0
+Large Blue Glass,4.01,25.0,25.0,No,25.0,N/A,15.5
+Small metal,3.48,13.0,13.0,No,37.0,N/A,32.0
+Large Blue Glass,3.83,24.5,25.0,No,26.5,N/A,19.0
+Small yellow-red Glass,3.27,15.0,16.0,No,39.0,N/A,33.0
+Small yellow-red Glass,3.45,16.0,17.0,Rays of missing cocoa powder,37.0,N/A,30.0
+Small yellow-red Glass,4.03,15.0,17.0,Rays of missing cocoa powder,34.0,N/A,25.0
+Small metal,2.25,12.0,12.0,No,37.0,N/A,28.0
+Medium Metal,2.28,15.0,16.0,No,39.0,N/A,31.0
+Medium Metal,2.92,17.0,17.0,Rays of missing cocoa powder,38.0,N/A,28.0
+Medium Metal,3.59,17.0,18.0,Rays of missing cocoa powder,36.0,N/A,28.0
+Medium Metal,3.74,17.0,18.0,Rays of missing cocoa powder,35.0,N/A,19.0
+Large Metal,2.91,23.0,25.0,Yes,35.0,36.0,13.0
+Large Metal,2.59,23.0,23.0,No,39.0,N/A,26.0
+Large Metal,2.31,22.0,23.0,Rays of missing cocoa powder,34.0,N/A,15.0
